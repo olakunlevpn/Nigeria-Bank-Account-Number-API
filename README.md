@@ -11,13 +11,13 @@ You can use it to get the account name of any bank account in Nigeria
 ## Demo 
 https://maylancer.org/api/nuban/
 
-API Link
+## API Link
 ``` 
 https://maylancer.org/api/nuban/api.php?account_number={{account_number}} 
 ```
 
 
-Response JSON
+## Response JSON
 
 ``` 
 {
