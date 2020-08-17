@@ -8,11 +8,12 @@ You can use it to get the account name of any bank account in Nigeria
 
 - Enter account number and bank code to get the account name
 
-
+## Demo 
+https://maylancer.org/api/nuban/
 
 API Link
 ``` 
-https://maylancer.org/api/nuban/?account_number={{account_number}} 
+https://maylancer.org/api/nuban/api.php?account_number={{account_number}} 
 ```
 
 
