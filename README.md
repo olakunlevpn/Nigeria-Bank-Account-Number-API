@@ -31,4 +31,12 @@ Response JSON
 ```
 
 
-For support and enquiries Whatsapp Me https://wa.link/zi3b0k
+For support and inquiry Whatsapp Me https://wa.link/zi3b0k
+
+## Legal
+Its very legal & safe
+
+## Security
+Our API is higly secure and our system do not store any bank record
+
+You can use the hosted version freely, if you want the source code kindly whatsapp me to get it for free https://wa.link/zi3b0k
