@@ -27,7 +27,7 @@ https://maylancer.org/api/nuban/?account_number={account_number}
 ``` 
 {
     "account_number": "0080******",
-    "account_name": "TOHEEB OLAKUNLE WASIU",
+    "account_name": "Jane Doe",
     "Bank_name": "ACCESS BANK PLC",
     "bank_code": "044",
     "requests": "Free",
