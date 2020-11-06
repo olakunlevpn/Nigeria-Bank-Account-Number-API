@@ -13,7 +13,12 @@ https://maylancer.org/api/nuban/
 
 ## API Link
 ``` 
-https://maylancer.org/api/nuban/api.php?account_number={{account_number}} 
+https://maylancer.org/api/nuban/?account_number={account_number}&bank_code={code}
+```
+
+Without bank code
+``` 
+https://maylancer.org/api/nuban/?account_number={account_number}
 ```
 
 
@@ -31,6 +36,11 @@ https://maylancer.org/api/nuban/api.php?account_number={{account_number}}
 }
 ```
 
+## Useful links 
+ Bank list html  https://maylancer.org/api/nuban/banklist.php?type=html
+ Bank list Codes https://maylancer.org/api/nuban/banklist.php?type=bank_code
+ Bank list JSON  https://maylancer.org/api/nuban/banklist.php
+ 
 
 For support and inquiry Whatsapp Me https://wa.link/zi3b0k
 
