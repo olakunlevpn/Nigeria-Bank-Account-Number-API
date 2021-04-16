@@ -116,7 +116,7 @@ echo json_encode($data, JSON_PRETTY_PRINT);
   - Bank list JSON  https://maylancer.org/api/nuban/banklist.php
  
 
-For support and inquiry Whatsapp Me https://wa.link/zi3b0k
+For support and inquiry Whatsapp Me https://wa.link/q1dmy4
 
 ## Legal
 Its very legal & safe
