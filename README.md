@@ -129,4 +129,4 @@ Its very legal & safe
 ## Security
 Our API is highly secure and our system do not store any bank record
 
-You can use the hosted version freely, if you want the source code kindly whatsapp me to get it for free https://wa.link/q1dmy4
+
