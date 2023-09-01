@@ -134,7 +134,7 @@ try {
 
 ## Response JSON
 
-``` 
+```JSON
 {
     "account_number": "123567890",
     "account_name": "CHIDUBEM IJENDU",
