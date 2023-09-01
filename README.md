@@ -30,21 +30,6 @@ https://nubapi.com/verify?account_number={account_number}
 ```
 
 
-## Response JSON
-
-``` 
-{
-    "account_number": "123567890",
-    "account_name": "CHIDUBEM IJENDU",
-    "first_name": "CHIDUBEM",
-    "last_name": "IJENDU",
-    "other_name": "TIMOTHY",
-    "Bank_name": "Bowen Microfinance Bank",
-    "bank_code": "50931",
-    "requests": "Free",
-    "status": true
-}
-```
 
 ## Code Sample 
 ```
@@ -104,7 +89,7 @@ function callAPI($method, $url, $data) {
 }
  
 // Define the API endpoint URL
-$url = 'http://nubapi.test/api/verify';
+$url = 'http://nubapi.com/api/verify';
  
 // Set the API parameters
 $params = [
@@ -145,6 +130,24 @@ try {
 }
 
 ```
+
+
+## Response JSON
+
+``` 
+{
+    "account_number": "123567890",
+    "account_name": "CHIDUBEM IJENDU",
+    "first_name": "CHIDUBEM",
+    "last_name": "IJENDU",
+    "other_name": "TIMOTHY",
+    "Bank_name": "Bowen Microfinance Bank",
+    "bank_code": "50931",
+    "requests": "Free",
+    "status": true
+}
+```
+
 
 ## Useful links 
   - Bank list html  https://nubapi.com/bank-html
