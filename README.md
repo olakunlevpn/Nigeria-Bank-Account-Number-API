@@ -9,7 +9,7 @@ You can lookup any bank account details in Nigeria using our free bank API in fe
 - Enter account number and bank code to get the account name
 
 
-[](https://maylancer.org/storage/uploads/mSwNa7Cvvn3pxpU212RBSz9kBgkJjytxPMIa6HG4.png)
+[Real-time Nigeria Bank Account Validation API Tutorial](https://maylancer.org/blog/real-time-nigeria-bank-account-validation-api-tutorial)
 
 
 ## Demo 
