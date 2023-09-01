@@ -32,7 +32,7 @@ https://nubapi.com/verify?account_number={account_number}
 
 
 ## Code Sample 
-```
+```php
 /**
  * Makes an API call using cURL.
  *
